@@ -1,0 +1,9 @@
+c:\users\flono\documents\visual studio 2010\Projects\Fniz\ParametrizedString\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\flono\Documents\Visual Studio 2010\Projects\Fniz\ParametrizedString\bin\Debug\Fniz.ParametrizedString.dll
+C:\Users\flono\Documents\Visual Studio 2010\Projects\Fniz\ParametrizedString\bin\Debug\Fniz.ParametrizedString.pdb
+C:\Users\flono\Documents\Visual Studio 2010\Projects\Fniz\ParametrizedString\obj\Debug\Fniz.ParametrizedString.dll
+C:\Users\flono\Documents\Visual Studio 2010\Projects\Fniz\ParametrizedString\obj\Debug\Fniz.ParametrizedString.pdb
+C:\Users\Florian\Desktop\ParametrizedString\Fniz\ParametrizedString\obj\Debug\Fniz.ParametrizedString.dll
+C:\Users\Florian\Desktop\ParametrizedString\Fniz\ParametrizedString\obj\Debug\Fniz.ParametrizedString.pdb
+C:\Users\Florian\Desktop\ParametrizedString\Fniz\ParametrizedString\bin\Debug\Fniz.ParametrizedString.dll
+C:\Users\Florian\Desktop\ParametrizedString\Fniz\ParametrizedString\bin\Debug\Fniz.ParametrizedString.pdb

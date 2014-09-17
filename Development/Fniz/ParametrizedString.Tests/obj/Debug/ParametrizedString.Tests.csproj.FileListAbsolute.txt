@@ -1,0 +1,16 @@
+c:\users\flono\documents\visual studio 2010\Projects\Fniz\ParametrizedString.Tests\obj\Debug\ResolveAssemblyReference.cache
+c:\users\flono\documents\visual studio 2010\Projects\Fniz\ParametrizedString.Tests\bin\Debug\ParametrizedString.Tests.dll
+c:\users\flono\documents\visual studio 2010\Projects\Fniz\ParametrizedString.Tests\bin\Debug\ParametrizedString.Tests.pdb
+c:\users\flono\documents\visual studio 2010\Projects\Fniz\ParametrizedString.Tests\bin\Debug\nunit.framework.dll
+c:\users\flono\documents\visual studio 2010\Projects\Fniz\ParametrizedString.Tests\bin\Debug\nunit.framework.xml
+c:\users\flono\documents\visual studio 2010\Projects\Fniz\ParametrizedString.Tests\obj\Debug\ParametrizedString.Tests.dll
+c:\users\flono\documents\visual studio 2010\Projects\Fniz\ParametrizedString.Tests\obj\Debug\ParametrizedString.Tests.pdb
+C:\Users\flono\Documents\Visual Studio 2010\Projects\Fniz\ParametrizedString.Tests\bin\Debug\Fniz.ParametrizedString.dll
+C:\Users\flono\Documents\Visual Studio 2010\Projects\Fniz\ParametrizedString.Tests\bin\Debug\Fniz.ParametrizedString.pdb
+C:\Users\Florian\Desktop\ParametrizedString\Fniz\ParametrizedString.Tests\bin\Debug\ParametrizedString.Tests.dll
+C:\Users\Florian\Desktop\ParametrizedString\Fniz\ParametrizedString.Tests\bin\Debug\ParametrizedString.Tests.pdb
+C:\Users\Florian\Desktop\ParametrizedString\Fniz\ParametrizedString.Tests\bin\Debug\Fniz.ParametrizedString.dll
+C:\Users\Florian\Desktop\ParametrizedString\Fniz\ParametrizedString.Tests\bin\Debug\Fniz.ParametrizedString.pdb
+C:\Users\Florian\Desktop\ParametrizedString\Fniz\ParametrizedString.Tests\obj\Debug\ParametrizedString.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Florian\Desktop\ParametrizedString\Fniz\ParametrizedString.Tests\obj\Debug\ParametrizedString.Tests.dll
+C:\Users\Florian\Desktop\ParametrizedString\Fniz\ParametrizedString.Tests\obj\Debug\ParametrizedString.Tests.pdb
